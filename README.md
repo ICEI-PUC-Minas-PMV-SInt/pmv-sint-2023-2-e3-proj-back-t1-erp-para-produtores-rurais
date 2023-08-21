@@ -1,23 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`CURSO: Sistemas Para Internet`
 
-`DISCIPLINA`
+`DISCIPLINA: Projetos - Desenvolvimento Web Back-end`
 
-`SEMESTRE`
+`Eixo 03`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O sistema ERP (Enterprise Resources Planning) traduzido para o português: “Sistema Integrado de Gestão Empresarial” é um programa que possibilita o fluxo de informações em um único software. Um dispositivo que abrange funcionalidades para o gerenciamento de negócios, projeta a segurança de dados, fornece melhoria na administração de processos empresariais. Assim, digitalmente através de um programa, ele não necessita diretamente da intervenção humana, no entanto, trabalha por si mesmo.
+Por conseguinte, medidas devem ser implementadas para que possam facilitar a gestão de processos internos, projetos e de pessoas, cuidando das atividades administrativas, otimizando o armazenamento e reduzindo custos 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Cleide Conceição Nascimento 
+* Diego Roberto Nonato 
+* Leonardo Alves de Freitas 
+* Victor Batista Ferreira
+* Wender Gonçalves dos Santos 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Will Ricardo dos Santos Machado
 
 ## Instruções de utilização
 
