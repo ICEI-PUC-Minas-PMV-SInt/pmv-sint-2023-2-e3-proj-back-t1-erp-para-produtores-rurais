@@ -6,13 +6,14 @@
 
 `Eixo 03`
 
-O sistema ERP (Enterprise Resources Planning) traduzido para o português: “Sistema Integrado de Gestão Empresarial” é um programa que possibilita o fluxo de informações em um único software. Um dispositivo que abrange funcionalidades para o gerenciamento de negócios, projeta a segurança de dados, fornece melhoria na administração de processos empresariais. Assim, digitalmente através de um programa, ele não necessita diretamente da intervenção humana, no entanto, trabalha por si mesmo.
-Por conseguinte, medidas devem ser implementadas para que possam facilitar a gestão de processos internos, projetos e de pessoas, cuidando das atividades administrativas, otimizando o armazenamento e reduzindo custos 
+Um sistema ERP (Enterprise Resource Planning) é uma solução de gestão empresarial que pode ser muito útil para produtores rurais. Ele permite que os gestores tenham uma visão mais integrada e completa das atividades realizadas em sua propriedade, facilitando a tomada de decisões e melhorando a eficiência operacional.
+
+Com um sistema ERP, o produtor pode controlar de forma mais efetiva os processos de produção, gerenciando melhor os recursos disponíveis e monitorando a qualidade dos produtos. Além disso, é possível integrar diferentes áreas da propriedade, como financeiro, estoque, compras, vendas e produção, em um único software, o que aumenta a agilidade e a precisão da gestão.
 
 ## Integrantes
 
 * Cleide Conceição Nascimento 
-* Diego Roberto Nonato 
+* Diego Roberto Silva Nonato 
 * Leonardo Alves de Freitas 
 * Victor Batista Ferreira
 * Wender Gonçalves dos Santos 
