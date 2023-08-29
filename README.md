@@ -6,7 +6,10 @@
 
 `Eixo 03`
 
-Um sistema ERP (Enterprise Resource Planning) é uma solução de gestão empresarial que pode ser muito útil para produtores rurais. Ele permite que os gestores tenham uma visão mais integrada e completa das atividades realizadas em sua propriedade, facilitando a tomada de decisões e melhorando a eficiência operacional.
+Um sistema ERP (Enterprise Resource Planning) é uma solução de gestão empresarial que pode ser muito útil para produtores rurais. Ele permite que os gestores tenham uma visão mais integrada e completa das atividades realizadas em sua propriedade, facilitando a tomada de decisões e melhorando a eficiência operacional.<br/><br/>
+<div align="center">
+<img src="/docs/img/logo.png" alt="erp circle logo" style="height: 300px; width:350px;"/> 
+</div><br/><br/>
 
 Com um sistema ERP, o produtor pode controlar de forma mais efetiva os processos de produção, gerenciando melhor os recursos disponíveis e monitorando a qualidade dos produtos. Além disso, é possível integrar diferentes áreas da propriedade, como financeiro, estoque, compras, vendas e produção, em um único software, o que aumenta a agilidade e a precisão da gestão.
 
