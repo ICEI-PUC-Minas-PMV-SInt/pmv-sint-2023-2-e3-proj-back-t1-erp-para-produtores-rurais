@@ -46,7 +46,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-AO projeto está utilizando a metodologia Kanban, havendo uma divisão de atribuições para uma melhor organização do projeto. Sendo definida da seguinte forma: 
+Ao projeto está utilizando a metodologia Kanban, havendo uma divisão de atribuições para uma melhor organização do projeto. Sendo definida da seguinte forma: 
 
 - Scrum master - responsável por facilitar o trabalho do time para aumentar a autonomia dos membros para o desenvolvimento do projeto: 
  > Victor Batista Ferreira 
