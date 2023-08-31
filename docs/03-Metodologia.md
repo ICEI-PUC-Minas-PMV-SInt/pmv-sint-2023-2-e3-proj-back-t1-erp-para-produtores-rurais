@@ -93,6 +93,8 @@ As tarefas dessa etapa estão apresentadas no GitHub Project e detalhadas com o 
 
 A imagem a seguir é a representação da nossa página de estruturação do projeto em forma de cards separados por tarefas no aplicativo GitHub Project: 
 
+<img src="/docs/img/GitHub Classroom.png">
+
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
