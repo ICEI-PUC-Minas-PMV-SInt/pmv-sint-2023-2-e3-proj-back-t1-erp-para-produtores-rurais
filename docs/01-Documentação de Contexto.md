@@ -16,7 +16,7 @@
 
 ## Objetivos
 
- O objetivo geral deste projeto é a criação de um sistema ERP, uma ferramenta de planejamento de recursos empresariais, para a modernização da atividade de pequenos empreendedores com o intuito de aumentar sua produção, velocidade e facilidade na gestão, e a segurança dos dados armazenados. De forma intuitiva e visualmente agradável. 
+Desenvolver um aplicativo de gestão agrícola destinado a pequenos produtores rurais e empreendedores no setor agrícola. O aplicativo visa simplificar a gestão de estoque e finanças, proporcionando uma solução intuitiva e eficaz para a administração de suas operações.
 
 Como objetivos específicos podemos ressaltar: 
 
@@ -24,9 +24,7 @@ Como objetivos específicos podemos ressaltar:
 
 > Gestão Financeira; 
 
-> Emissão de Notas Fiscais eletrônicas; 
-
-> Geração automática de relatórios; 
+> Relatórios Financeiros; 
 
 > Visão e redução de erros; 
 
