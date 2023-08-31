@@ -1,14 +1,15 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia é dividida em estratégias e execuções que descrevem o que será desenvolvido no projeto, organizando etapas e descrevendo o ambiente onde serão realizadas. Assim, obtendo administração sobre o código e a forma como ele se comporta. Metodologia kanban administrada pelo Github Projects. 
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+|Ambiente     | Plataforma  |Link de acesso |
+|-------|-------------------------|----|
+|Documento| Drive  | [Documento do projeto](https://sgapucminasbr-my.sharepoint.com/:w:/r/personal/1420555_sga_pucminas_br/_layouts/15/doc2.aspx?sourcedoc=%7B1E48DA8A-B78C-47A5-8D73-1DFEF3957321%7D&file=Projeto%20PUC%20Minas.docx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1692658076600%2C1693508822129&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=cea88d60-d20f-4bae-98fd-e1c8d33235c2&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=242b79c1-5a39-43d9-9371-557a7dd8804d&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIxNDE1LzIzMDcwMzA3MzQ2IiwiSGFzRmVkZXJhdGVkVXNlciI6ZmFsc2V9) | 
+|Repositório| GitHub Classroom | [ERP para produtores rurais](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e3-proj-back-t1-erp-para-produtores-rurais) | 
+|Gerenciamento| GitHub Project  | [Projeto ERP](https://github.com/orgs/ICEI-PUC-Minas-PMV-SInt/projects/10) | 
 
 ## Controle de Versão
 
@@ -45,30 +46,52 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+AO projeto está utilizando a metodologia Kanban, havendo uma divisão de atribuições para uma melhor organização do projeto. Sendo definida da seguinte forma: 
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
+- Scrum master - responsável por facilitar o trabalho do time para aumentar a autonomia dos membros para o desenvolvimento do projeto: 
+ > Victor Batista Ferreira 
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
+- Product Owner - responsável por trabalhar com gerenciamento do produto: 
+> Cleide Conceição Nascimento 
+
+- Equipe Desenvolvimento:  
+
+> Leonardo Alves de Freitas
+ 
+> Victor Batista Ferreira
+
+> Wender Gonçalves dos Santos
+
+> Cleide Conceição Nascimento
+
+> Diego Roberto Silva Nonato 
+
+- Projeto de interface – Design: 
+> Victor Batista Ferreira 
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+As tarefas dessa etapa estão apresentadas no GitHub Project e detalhadas com o nome (abreviado) de quem irá desenvolver, desse modo, organizadas em diferentes elementos fragmentadas a seguir: 
+
+- Tarefas – Lista de tarefas a serem cumpridas durante o projeto, separadas em módulos, e divididas para cada pessoa da equipe, facilitando o papel que cada um deve exercer dentro do projeto. 
+
  
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+
+- Em Progresso – Essa lista determina as tarefas que estão em andamento, para auxiliar o desenvolvimento do que já está sendo feito. 
+
+ 
+
+- Melhorias – Aonde aa tarefa já estão prontas, mas ainda podem sofrer algum   reajuste. 
+
+ 
+
+- Revisão – Revisão do grupo em geral, do que foi feito individualmente por cada membro da equipe.  
+
+ 
+
+- Concluído – Tarefa concluída e revisada pelo grupo em geral. 
+
+A imagem a seguir é a representação da nossa página de estruturação do projeto em forma de cards separados por tarefas no aplicativo GitHub Project: 
 
 ### Ferramentas
 
