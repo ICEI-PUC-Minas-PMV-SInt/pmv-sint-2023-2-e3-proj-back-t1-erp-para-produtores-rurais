@@ -34,11 +34,14 @@ A interface do sistema também pode ser observada através das seguintes imagens
 <img src="/docs/img/wireframe-dashboard.png">
 
 - Financeiro
+> A página de financeiro dispõe a visualização de uma lista de compras.
 <img src="/docs/img/wireframe-financeiro.png">
 
 - Insumos
+> A página de insumos dispõe de uma lista de insumos disponíveis e a quantidade.
 <img src="/docs/img/wireframe-insumos.png">
 
 - Produtos
+> A página de produtos dispõe a visualização de uma lista de produtos e suas respectivas quantidades.
 <img src="/docs/img/wireframe-produtos.png">
   
