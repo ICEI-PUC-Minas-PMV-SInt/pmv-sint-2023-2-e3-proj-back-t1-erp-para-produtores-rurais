@@ -4,10 +4,52 @@
 
 ## Personas
 
-|Perfil                | Nome                               |Idade    | Profissão
-|--------------------|------------------------------------|---------|--------------- |
-| x                  | Carlos Silva                       | 35 anos |  Pequeno produtor rural |
-|x                   | Marina Santos                      | 28 anos | Empreendedora iniciante no ramo agrícola |
+|Perfil                                                                                                  | Nome                               |Idade    | Ocupação |
+|--------------------------------------------------------------------------------------------------------|------------------------------------|---------|---------------|
+|<img src="/docs/img/carlos-silva.jpeg" alt="MarineGEO circle logo" style="height: 200px; width:250px;"/>| Carlos Silva| 35 anos |Pequeno produtor rural              |
+<br/>
+
+| `Aplicativos` | `Controle Atuais` |`Planos de Expansão `| 
+|--------------------|------------------------------------|----------------------------------------|
+|<ul><li>Facebook</li><li>Whatsapp</li></ul>| <ul><li>Anotações de vendas em papel </li><li>Planilha simple para controle de estoque</li></ul> |<ul><li>Aumentar produção  </li><li>Diversificar produção  </li></ul>|
+
+| `Pontos Fortes` | `Pontos Fracos` |`Escolaridade`| 
+|--------------------|------------------------------------|----------------------------------------|
+|<ul><li>Disponibilidade de água  </li><li>Proximidade com o centro da cidade </li>| <ul><li>Dificuldade com o clima para melhor produtividade</li><li>sobrecarregado com as tarefas de registro de estoque</li></ul> |Ensino Médio Completo|
+### Histórico:
+Carlos é um apaixonado pelo campo desde criança, crescendo em uma família que sempre teve uma pequena propriedade rural. Ele decidiu seguir os passos de seus pais e hoje é um pequeno produtor de frutas orgânicas, como morangos e maçãs, em sua fazenda no interior do Brasil. Carlos é dedicado ao seu trabalho e está sempre em busca de maneiras de melhorar suas práticas agrícolas.
+
+### Desafios:
+Apesar de sua paixão pela agricultura, Carlos enfrenta desafios na gestão de seu negócio. Ele muitas vezes se sente sobrecarregado com as tarefas de registro de estoque, controle de despesas e acompanhamento das finanças diárias. Ele tentou usar planilhas para se organizar, mas a complexidade dessas ferramentas o deixou frustrado.
+
+### Comportamento:
+Carlos é ativo nas redes sociais, principalmente seguindo grupos e páginas relacionadas à agricultura orgânica e técnicas de cultivo. Ele procura constantemente dicas e truques para melhorar sua produtividade e eficiência. Ele está disposto a investir tempo para aprender a usar uma nova ferramenta, desde que ela realmente atenda às suas necessidades.
+<hr>
+
+|Perfil                                                                                                  | Nome                               |Idade    | Ocupação |
+|--------------------------------------------------------------------------------------------------------|------------------------------------|---------|---------------|
+|<img src="/docs/img/marina-sanrtos.jpeg" alt="marina image" style="height: 200px; width:250px;"/>| Marina Santos                      | 28 anos | Empreendedora iniciante no ramo agrícola |
+<br/>
+
+| `Aplicativos` | `Controle Atuais` |`Planos de Expansão `| 
+|--------------------|------------------------------------|----------------------------------------|
+|<ul><li>Telegram</li><li>Whatsapp</li><li>Instagram</li></ul>| <ul><li>Anotações em papel do fluxo de caixa </li><li>Anota gastos de combustível, água, luz e insumos </li></ul> |<ul><li>Construir poço artesiano  </li><li>Expansão da produção </li></ul>|
+
+| `Pontos Fortes` | `Pontos Fracos` |`Escolaridade`| 
+|--------------------|------------------------------------|----------------------------------------|
+|<ul><li>Qualidade e sanidade </li><li>Atendimento ao cliente </li>| <ul><li>Melhorar o modo de plantio </li></ul> |Ensino Superior Completo|
+
+### Histórico:
+Marina é uma jovem empreendedora cheia de entusiasmo que decidiu seguir o sonho de administrar sua própria pequena fazenda após concluir seus estudos em Agronomia. Ela herdou um terreno da família e está empolgada em transformá-lo em uma operação agrícola lucrativa. Embora tenha conhecimento técnico, ela ainda é inexperiente quando se trata da gestão eficiente de um negócio.
+
+### Desafios:
+O maior desafio de Marina é navegar pelo mundo complexo da gestão de um negócio agrícola. Ela sente dificuldades em equilibrar o cultivo das safras, manutenção da propriedade, controle de estoque e finanças. As várias responsabilidades podem ser esmagadoras e ela muitas vezes se sente perdida ao tentar tomar decisões informadas.
+
+### Comportamento:
+Marina está ativamente envolvida em comunidades online de agricultores e empreendedores rurais. Ela participa de fóruns de discussão e grupos de mídia social nos quais compartilha suas experiências e busca conselhos de pessoas mais experientes. Ela está disposta a aprender e dedicar tempo para dominar uma ferramenta que possa apoiar seu crescimento como empreendedora agrícola.
+
+<hr/>
+
 
 ## Histórias de Usuários
 
