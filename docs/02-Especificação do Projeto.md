@@ -103,7 +103,6 @@ As principais restrições limitam o prazo, a qualidade e o escopo do projeto, n
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
 
 ## Diagrama de Casos de Uso
 
