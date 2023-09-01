@@ -10,6 +10,7 @@ A metodologia é dividida em estratégias e execuções que descrevem o que ser�
 |Documento| Drive  | [Documento do projeto](https://sgapucminasbr-my.sharepoint.com/:w:/r/personal/1420555_sga_pucminas_br/_layouts/15/doc2.aspx?sourcedoc=%7B1E48DA8A-B78C-47A5-8D73-1DFEF3957321%7D&file=Projeto%20PUC%20Minas.docx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1692658076600%2C1693508822129&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=cea88d60-d20f-4bae-98fd-e1c8d33235c2&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=242b79c1-5a39-43d9-9371-557a7dd8804d&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIxNDE1LzIzMDcwMzA3MzQ2IiwiSGFzRmVkZXJhdGVkVXNlciI6ZmFsc2V9) | 
 |Repositório| GitHub Classroom | [ERP para produtores rurais](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e3-proj-back-t1-erp-para-produtores-rurais) | 
 |Gerenciamento| GitHub Project  | [Projeto ERP](https://github.com/orgs/ICEI-PUC-Minas-PMV-SInt/projects/10) | 
+|Wireframe| Figma  | [Wireframe](https://www.figma.com/proto/t7pqieZ5A0xCkehEefJLW4/Wireframes?page-id=0%3A1&node-id=89-540&viewport=451%2C314%2C0.21&scaling=contain) | 
 
 ## Controle de Versão
 
