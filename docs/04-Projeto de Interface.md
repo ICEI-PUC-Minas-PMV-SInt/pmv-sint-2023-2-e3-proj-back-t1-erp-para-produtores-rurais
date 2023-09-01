@@ -1,11 +1,9 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+A interface do sistema foi projetada para atender a um público que talvez não esteja tão acostumado com as tecnologias atuais. Portanto, buscamos uma interface descomplicada que facilitasse o aprendizado do usuário de forma que este possa realizar o acompanhamento de suas atividades no campo sem grandes impecilhos.
+O dashboard apresentará todas as informações e relatórios que serão atulizados conforme utilização do usuário e os dados que ele fornece. O usuário poderá navegar através de uma barra lateral onde serão apresentadas as funcionalidades necessárias para que ele possa gerir suas atividades (cadastrar insumos, cadastrar produtos, etc).
+Com base nos insumos e produtos cadastrados, o sistema fornecerá um relatório que poderá ser observado no dashboard, onde será possível acompanhar as suas despesas, o faturamento e controlar o estoque.
 
 ## Diagrama de Fluxo
 
