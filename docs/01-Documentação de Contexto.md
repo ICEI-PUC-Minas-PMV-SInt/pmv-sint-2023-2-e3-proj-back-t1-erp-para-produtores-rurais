@@ -12,7 +12,7 @@
   Portanto, é de extrema importância abranger um sistema ERP nas organizações, porém, ainda existem empresários (principalmente produtores rurais) que não adotam este tipo de modelo, fazendo continuamente o manuseio básico de planilhas de Excel, ou até mesmo manualmente o “velho papel e caneta”, no qual é insustentável ao usuário, surgindo a perca de tempo e dinheiro por ser um processo mais trabalhoso e duradouro. Logo, cabe a ferramenta gerenciadora de negócios (sistema ERP) inferir na administração dos respectivos ramos empresariais, trazendo um gerenciamento mais dinâmico e ágil para o empreendedor. 
 
 ## Problema
- Os produtores rurais sofrem com a necessidade de uma gestão empresarial mais eficiente, pois a ausência desta gestão tem gerado efeitos de diminuição do lucro e produtividade. Os principais fatores que tem gerado dificuldades de gestão são: descontrole no estoque, inexistência de relatórios, perda de dados importantes e a improdutividade com planilhas Excel. Diante desses desafios, com este projeto pretendesse gerar uma solução para superar os problemas e garantir produtividade do negócio.
+ Os produtores rurais sofrem com a necessidade de uma gestão empresarial mais eficiente, pois a ausência desta gestão tem gerado efeitos de diminuição do lucro e produtividade. Os principais fatores que tem gerado dificuldades de gestão são: descontrole no estoque, inexistência de relatórios, perda de dados importantes e a improdutividade com planilhas excel. Diante desses desafios, com este projeto pretendesse gerar uma solução para superar os problemas e garantir produtividade do negócio.
 
 ## Objetivos
 
