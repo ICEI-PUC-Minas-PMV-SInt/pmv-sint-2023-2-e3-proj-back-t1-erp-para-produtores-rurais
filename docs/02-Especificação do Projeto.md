@@ -162,12 +162,13 @@ A tabela a seguir apresenta os Requisitos funcionais do projeto identificando a 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| O sistema deve conter uma Interface simples e acessível | ALTA | 
-|RF-002| O sistema deve conter uma área reservada ao registro de compras e despesas (formulários para cadastro)    | ALTA |
-|RF-003| O sistema deve conter uma área que controle o registro de estoque de insumos (formulários para estoque)    | ALTA |
-|RF-004| O sistema deve conter uma área que controle o registro de estoque e dos produtos (formulários para estoque)   | ALTA |
-|RF-005| O sistema deve apresentar solução que o mantenha funcional durante o período que se encontrar offline    | MÉDIA |
-|RF-006| O sistema deverá dispor de recursos voltados para produtores rurais.   | ALTA |
-|RF-007| O sistema deve apresentar uma página onde o usuário poderá se logar no software (Tela de Login).  | BAIXA |
+|RF-002| O sistema deve conter uma página de autenticação/login onde será possível gerenciar o acesso dos usuários | ALTA | 
+|RF-003| O sistema deve conter uma área reservada ao registro de compras e despesas (formulários para cadastro)    | ALTA |
+|RF-004| O sistema deve conter uma área que controle o registro de estoque de insumos (formulários para estoque)    | ALTA |
+|RF-005| O sistema deve conter uma área que controle o registro de estoque e dos produtos (formulários para estoque)   | ALTA |
+|RF-006| O sistema deve apresentar solução que o mantenha funcional durante o período que se encontrar offline    | MÉDIA |
+|RF-007| O sistema deverá dispor de recursos voltados para produtores rurais.   | ALTA |
+|RF-008| O sistema deve apresentar uma página onde o usuário poderá se logar no software (Tela de Login).  | BAIXA |
 
 ### Requisitos não Funcionais
 
