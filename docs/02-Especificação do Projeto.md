@@ -79,7 +79,7 @@ Isabela é uma líder proativa e inovadora. Ela está aberta a novas tecnologias
 
 |Perfil                                                                                                  | Nome                               |Idade    | Ocupação |
 |--------------------------------------------------------------------------------------------------------|------------------------------------|---------|---------------|
-|<img src="/docs/img/joao-gomes.jpeg" alt="Joao image" style="height: 200px; width:250px;"/>|João Gomes                     | 65 anos |  Agricultor Independente |
+|<img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e3-proj-back-t1-erp-para-produtores-rurais/blob/main/docs/img/joao-gomes.jpg?raw=true" style="height: 200px; width:250px;" />|João Gomes                     | 65 anos |  Agricultor Independente |
 <br/>
 
 | `Aplicativos` | `Controle Atuais` |`Planos de Expansão `| 
@@ -105,7 +105,7 @@ João é um agricultor dedicado e prático. Ele valoriza soluções simples e di
 
 |Perfil                                                                                                  | Nome                               |Idade    | Ocupação |
 |--------------------------------------------------------------------------------------------------------|------------------------------------|---------|---------------|
-|<img src="/docs/img/ana-oliveira.jpeg" alt="ana image" style="height: 200px; width:250px;"/>|Ana Oliveira                      | 32 anos | Analista de Dados Agrícolas |
+|<img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e3-proj-back-t1-erp-para-produtores-rurais/blob/main/docs/img/ana-oliveira.jpg?raw=true" style="height: 200px; width:250px;"/>|Ana Oliveira                      | 32 anos | Analista de Dados Agrícolas |
 <br/>
 
 | `Aplicativos` | `Controle Atuais` |`Planos de Expansão `| 
