@@ -57,7 +57,7 @@ Marina está ativamente envolvida em comunidades online de agricultores e empree
 
 | `Aplicativos` | `Controle Atuais` |`Planos de Expansão `| 
 |--------------------|------------------------------------|----------------------------------------|
-|<ul><li>Telegram</li><li>Whatsapp</li></ul>| <ul><li>Anotações em papel do fluxo de caixa </li><li>Anota gastos de combustível, água, luz e insumos </li></ul> |<ul><li>Construir poço artesiano  </li><li>Expansão da produção </li></ul>|
+|<ul><li>Microsoft Excel</li><li>Whatsapp</li><li>Google Maps</li></ul>| <ul><li>Planilhas de Excel Personalizadas</li><li>Registro Manual de Operações Agrícolas</li></ul> |<ul><li>Implementação de Sistema ERP</li><li>Treinamento e Capacitação dos funcionários</li></ul>|
 
 | `Pontos Fortes` | `Pontos Fracos` |`Escolaridade`| 
 |--------------------|------------------------------------|----------------------------------------|
@@ -84,7 +84,7 @@ Isabela é uma líder proativa e inovadora. Ela está aberta a novas tecnologias
 
 | `Aplicativos` | `Controle Atuais` |`Planos de Expansão `| 
 |--------------------|------------------------------------|----------------------------------------|
-|<ul><li>Email</li></ul>| <ul><li>Anotações em papel do fluxo de caixa </li><li>Anota gastos de combustível, água, luz e insumos </li></ul> |<ul><li>Construir poço artesiano  </li><li>Expansão da produção </li></ul>|
+|<ul><li>Whatsapp</li><li>Email</li><li>Google Keep</li></ul>| <ul><li>Caderno de Anotações</li><li>Comunicação em Grupo por WhatsApp</li></ul> |<ul><li>Adoção Gradual de Tecnologia</li><li>Exploração de Mercados Online</li></ul>|
 
 | `Pontos Fortes` | `Pontos Fracos` |`Escolaridade`| 
 |--------------------|------------------------------------|----------------------------------------|
@@ -110,7 +110,7 @@ João é um agricultor dedicado e prático. Ele valoriza soluções simples e di
 
 | `Aplicativos` | `Controle Atuais` |`Planos de Expansão `| 
 |--------------------|------------------------------------|----------------------------------------|
-|<ul><li>Telegram</li><li>Whatsapp</li></ul>| <ul><li>Anotações em papel do fluxo de caixa </li><li>Anota gastos de combustível, água, luz e insumos </li></ul> |<ul><li>Construir poço artesiano  </li><li>Expansão da produção </li></ul>|
+|<ul><li>Jupyter Notebooks (ou Similar)</li><li>Google Drive (ou Outros Serviços de Armazenamento em Nuvem)</li></ul>| <ul><li>Sistemas de Armazenamento em Nuvem</li><li>Sistemas GIS (Sistemas de Informações Geográficas) </li><li>ArcGIS (ou Similar)</li><li>Tableau ou Power BI:</li></ul> |<ul><li>Expansão dos Serviços de Consultoria</li><li>Colaborações com Universidades e Pesquisadores</li></ul>|
 
 | `Pontos Fortes` | `Pontos Fracos` |`Escolaridade`| 
 |--------------------|------------------------------------|----------------------------------------|
