@@ -52,7 +52,7 @@ Marina está ativamente envolvida em comunidades online de agricultores e empree
 
 |Perfil                                                                                                  | Nome                               |Idade    | Ocupação |
 |--------------------------------------------------------------------------------------------------------|------------------------------------|---------|---------------|
-|<img src="/docs/img/isabela-vidal.jpeg" alt="isabela image" style="height: 200px; width:250px;"/>| Isabela Vidal                      | 40 anos | Gestora Rural |
+|<img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e3-proj-back-t1-erp-para-produtores-rurais/blob/main/docs/img/isabela-vidal.jpg?raw=true" style="height: 200px; width:250px;" />| Isabela Vidal                      | 40 anos | Gestora Rural |
 <br/>
 
 | `Aplicativos` | `Controle Atuais` |`Planos de Expansão `| 
