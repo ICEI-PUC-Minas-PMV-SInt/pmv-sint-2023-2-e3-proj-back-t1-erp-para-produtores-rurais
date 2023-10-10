@@ -7,7 +7,7 @@ Com base nos insumos e produtos cadastrados, o sistema fornecerá um relatório 
 
 ## Diagrama de Fluxo
 
-<img src="/docs/img/diagrama-de-fluxo.jpeg">
+<img src="/docs/img/fluxo-de-sistema.png">
 
 ## Wireframes
 
