@@ -19,6 +19,10 @@ Os wireframes foram projetados através do Figma e podem ser acessados através 
 
 A interface do sistema também pode ser observada através das seguintes imagens que representam as páginas que constituem o sistema.
 
+- Login
+> Página inicial para autenticação/ gerenciamento de usuários
+<img src="/docs/img/wireframe-login.png">
+
 - Dashboard
 <img src="/docs/img/wireframe-dashboard.png">
 
