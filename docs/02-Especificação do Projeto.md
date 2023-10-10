@@ -50,6 +50,87 @@ Marina está ativamente envolvida em comunidades online de agricultores e empree
 
 <hr/>
 
+|Perfil                                                                                                  | Nome                               |Idade    | Ocupação |
+|--------------------------------------------------------------------------------------------------------|------------------------------------|---------|---------------|
+|<img src="/docs/img/isabela-vidal.jpeg" alt="isabela image" style="height: 200px; width:250px;"/>| Isabela Vidal                      | 40 anos | Gestora Rural |
+<br/>
+
+| `Aplicativos` | `Controle Atuais` |`Planos de Expansão `| 
+|--------------------|------------------------------------|----------------------------------------|
+|<ul><li>Telegram</li><li>Whatsapp</li></ul>| <ul><li>Anotações em papel do fluxo de caixa </li><li>Anota gastos de combustível, água, luz e insumos </li></ul> |<ul><li>Construir poço artesiano  </li><li>Expansão da produção </li></ul>|
+
+| `Pontos Fortes` | `Pontos Fracos` |`Escolaridade`| 
+|--------------------|------------------------------------|----------------------------------------|
+|<ul><li>Experiência sólida em agronomia e gestão rural</li><li>Liderança proativa e inovadora</li>| <ul><li>Falta de experiência em sistemas ERP e tecnologias similares</li><li>Pode ser resistente a mudanças devido à familiaridade com métodos tradicionais</li></ul> |Graduação em Agronomia|
+
+### Histórico:
+Isabela Santos cresceu em uma família com raízes profundas na agricultura. Após concluir seus estudos em agronomia, ela assumiu a gestão da fazenda da família, buscando modernizar as práticas agrícolas
+
+### Desafios:
+- Falta de Visibilidade: Ao assumir a gestão, Isabela percebeu a falta de visibilidade sobre todas as operações da fazenda, desde o plantio até a colheita, o que dificultava o planejamento eficiente
+- Gestão Financeira Desafiadora: Os desafios na gestão financeira tornaram-se evidentes, com dificuldades em controlar orçamentos, despesas e receitas de forma centralizada
+- Tomada de Decisão Limitada: Sem dados em tempo real, Isabela encontrava obstáculos para tomar decisões informadas, afetando a eficiência geral da fazenda
+
+### Comportamento:
+Isabela é uma líder proativa e inovadora. Ela está aberta a novas tecnologias e soluções que possam aprimorar a gestão da fazenda. Valoriza a eficiência operacional e está disposta a investir em soluções que melhorem a produtividade
+
+
+<hr/>
+
+|Perfil                                                                                                  | Nome                               |Idade    | Ocupação |
+|--------------------------------------------------------------------------------------------------------|------------------------------------|---------|---------------|
+|<img src="/docs/img/joao-gomes.jpeg" alt="Joao image" style="height: 200px; width:250px;"/>|João Gomes                     | 65 anos |  Agricultor Independente |
+<br/>
+
+| `Aplicativos` | `Controle Atuais` |`Planos de Expansão `| 
+|--------------------|------------------------------------|----------------------------------------|
+|<ul><li>Email</li></ul>| <ul><li>Anotações em papel do fluxo de caixa </li><li>Anota gastos de combustível, água, luz e insumos </li></ul> |<ul><li>Construir poço artesiano  </li><li>Expansão da produção </li></ul>|
+
+| `Pontos Fortes` | `Pontos Fracos` |`Escolaridade`| 
+|--------------------|------------------------------------|----------------------------------------|
+|<ul><li>Experiência prática sólida na agricultura</li><li>Conhecimento profundo das práticas agrícolas</li><li>Dedicação e paixão pela agricultura</li>| <ul><li>Limitado conhecimento tecnológico</li><li>Tempo limitado para tarefas administrativas devido ao trabalho no campo</li></ul> | Ensino Médio|
+
+### Histórico:
+João Silva sempre teve uma paixão pela terra. Cresceu em uma pequena propriedade e, ao longo dos anos, expandiu suas atividades para incluir uma variedade de culturas.
+
+### Desafios:
+- Tempo Limitado: Com a expansão de suas atividades, João enfrenta o desafio de gerenciar eficientemente seu tempo, dividido entre o trabalho intenso no campo e as tarefas administrativas
+- Falta de Conhecimento Tecnológico: João, apesar de ser habilidoso na agricultura, não possui conhecimento técnico aprofundado, tornando difícil a adoção de soluções tecnológicas complexas
+- Dificuldade de Acesso a Mercados: A distribuição de seus produtos para mercados mais amplos é limitada devido a processos de distribuição menos eficientes
+
+### Comportamento:
+João é um agricultor dedicado e prático. Ele valoriza soluções simples e diretas que não demandam muito tempo de aprendizado. Prefere ferramentas que o ajudem a otimizar suas operações sem complicações.
+
+<hr/>
+
+|Perfil                                                                                                  | Nome                               |Idade    | Ocupação |
+|--------------------------------------------------------------------------------------------------------|------------------------------------|---------|---------------|
+|<img src="/docs/img/ana-oliveira.jpeg" alt="ana image" style="height: 200px; width:250px;"/>|Ana Oliveira                      | 32 anos | Analista de Dados Agrícolas |
+<br/>
+
+| `Aplicativos` | `Controle Atuais` |`Planos de Expansão `| 
+|--------------------|------------------------------------|----------------------------------------|
+|<ul><li>Telegram</li><li>Whatsapp</li></ul>| <ul><li>Anotações em papel do fluxo de caixa </li><li>Anota gastos de combustível, água, luz e insumos </li></ul> |<ul><li>Construir poço artesiano  </li><li>Expansão da produção </li></ul>|
+
+| `Pontos Fortes` | `Pontos Fracos` |`Escolaridade`| 
+|--------------------|------------------------------------|----------------------------------------|
+|<ul><li>Experiência acadêmica e profissional em ciência de dados</li><li>Habilidade avançada em análise de dados</li><li>Conhecimento técnico profundo em tecnologias relacionadas</li>| <ul><li>Pouca experiência prática nas operações agrícolas</li><li>Pode ser excessivamente focada em dados, às vezes negligenciando a aplicação prática</li></ul> |Mestrado em Ciência de Dados|
+
+### Histórico:
+Ana Oliveira desenvolveu um interesse precoce em dados e tecnologia. Após concluir seus estudos em ciência de dados, ela ingressou em uma empresa de consultoria agrícola
+
+### Desafios:
+- Diversidade de Dados: Ana trabalha com uma variedade de fontes de dados, desde sensores agrícolas até imagens de satélite, enfrentando o desafio de integrar e analisar essas informações de maneira eficiente
+- Integração de Dados: A ausência de um sistema centralizado dificulta a integração rápida de dados, prolongando o tempo necessário para análises detalhadas
+- Segurança dos Dados: Dada a natureza sensível dos dados agrícolas, Ana precisa garantir a segurança dessas informações contra ameaças cibernéticas
+
+### Comportamento:
+Ana é uma profissional analítica e orientada para resultados. Ela busca constantemente maneiras de melhorar a eficiência de suas análises, utilizando ferramentas avançadas. A segurança dos dados é uma prioridade em seu trabalho diário
+
+<hr/>
+
+
+
 
 ## Histórias de Usuários
 
