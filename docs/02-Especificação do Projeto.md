@@ -110,7 +110,7 @@ João é um agricultor dedicado e prático. Ele valoriza soluções simples e di
 
 | `Aplicativos` | `Controle Atuais` |`Planos de Expansão `| 
 |--------------------|------------------------------------|----------------------------------------|
-|<ul><li>Jupyter Notebooks (ou Similar)</li><li>Google Drive (ou Outros Serviços de Armazenamento em Nuvem)</li></ul>| <ul><li>Sistemas de Armazenamento em Nuvem</li><li>Sistemas GIS (Sistemas de Informações Geográficas) </li><li>ArcGIS (ou Similar)</li><li>Tableau ou Power BI:</li></ul> |<ul><li>Expansão dos Serviços de Consultoria</li><li>Colaborações com Universidades e Pesquisadores</li></ul>|
+|<ul><li>Telegram</li><li>Google Drive (ou Outros Serviços de Armazenamento em Nuvem)</li><li>ArcGIS (ou Similar)</li><li>Tableau ou Power BI</li></ul>| <ul><li>Sistemas de Armazenamento em Nuvem</li><li>Sistemas GIS (Sistemas de Informações Geográficas) </li></ul> |<ul><li>Expansão dos Serviços de Consultoria</li><li>Colaborações com Universidades e Pesquisadores</li></ul>|
 
 | `Pontos Fortes` | `Pontos Fracos` |`Escolaridade`| 
 |--------------------|------------------------------------|----------------------------------------|
