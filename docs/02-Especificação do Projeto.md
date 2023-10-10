@@ -138,10 +138,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Carlos Silva (Usuário)  |Controlar insumos e matérias primas           | Evitar ou diminuir desperdícios               |
-|Carlos Silva (Usuário)  |Um sistema onde possa controlar todas suas atividades rurais de maneira mais dinâmica   | Ter maior controle e facilidade na hora de administrar suas atividades    |
+|Carlos Silva (Usuário), João Gomes (Usuário), Isabela Vidal (Usuário) |Controlar insumos e matérias primas           | Evitar ou diminuir desperdícios               |
+|Carlos Silva (Usuário), Isabela Vidal (Usuário), Marina Santos (Usuário), João Gomes (Usuário)   |facilitar o controle centralizado de orçamentos, despesas e receitas, otimizando a saúde financeira da fazenda   | Ter maior controle e facilidade na hora de administrar suas atividades    |
 |Marina Santos (Usuário)  |Organizar insumos e matérias primas, como compra de sementes           | Melhorar a organização dos pedidos e reduzir prejuízos e gastos de produtos que sobram               |
-|Marina Santos (Usuário)  |Um relatório periódico de suas atividades no campo           | Evitar a tomada de decisões equivocadas por falta de informação/confusão               |
+|Marina Santos (Usuário), Isabela Vidal (Usuário), Carlos Silva (Usuário)  |Um relatório periódico de suas atividades no campo           | Evitar a tomada de decisões equivocadas por falta de informação/confusão               |
+|Ana Oliveira (Usuário) | ferramenta de análise de dados agrícolas mais avançada, para aprofundar minhas análises | fornecer insights mais precisos aos meus clientes|
+|Carlos Silva (Usuário),Marina Santos (Usuário),João Gomes (Usuário) | funcionalidade de análise de mercado e logística| para explorar oportunidades de expansão e melhorar a distribuição de produtos agrícolas para mercados mais amplos |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 
