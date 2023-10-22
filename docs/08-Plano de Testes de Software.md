@@ -16,7 +16,7 @@
   > O sistema deverá estar funcionando normalmente a área de login.
   
 
-  #Plano 2
+#Plano 2
 
 - Requisito
   > O sistema deve conter uma área reservada ao registro de compras e despesas (formulários para cadastro);
