@@ -1,12 +1,8 @@
 # Template Padrão da Aplicação
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+O template da aplicação foi projetado de maneira a ser descomplicado e de fácil navegação para bem atender usuários que eventualmente não estejam acostumados com a utilização de tecnologias e esteja buscando atualizar suas atividades.
 
-Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+Conforme mostra a imagem abaixo, a interface é composta de uma barra lateral de navegação ao lado esquerdo,onde serão apresentadas as opções de "Dashboard", "Financeiro", "Insumos" e "Produtos". Na parte superior direta da tela, teremos as opções de gerenciamento de usuários. Esse é o template padrão e na parte principal da página. Ao centro, teremos as informações referentes a cada página funcionalidade especifica da aplicação, que podem ser acessadas através da barra lateral de navegação.
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+
+<img src="/docs/img/wireframe-financeiro.png">
