@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cleide Nascimento\\Desktop\\SISTEMAS PARA INTERNET-PUC\\Eixo3\\Eixo3-MF-Desenvolvimento-Back-End\\ORM_Exemplo\\ORM_Exemplo\\ORM_Exemplo.csproj": {}
+    "C:\\dev\\pmv-sint-2023-2-e3-proj-back-t1-erp-para-produtores-rurais\\ORM_Exemplo\\ORM_Exemplo\\ORM_Exemplo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cleide Nascimento\\Desktop\\SISTEMAS PARA INTERNET-PUC\\Eixo3\\Eixo3-MF-Desenvolvimento-Back-End\\ORM_Exemplo\\ORM_Exemplo\\ORM_Exemplo.csproj": {
+    "C:\\dev\\pmv-sint-2023-2-e3-proj-back-t1-erp-para-produtores-rurais\\ORM_Exemplo\\ORM_Exemplo\\ORM_Exemplo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cleide Nascimento\\Desktop\\SISTEMAS PARA INTERNET-PUC\\Eixo3\\Eixo3-MF-Desenvolvimento-Back-End\\ORM_Exemplo\\ORM_Exemplo\\ORM_Exemplo.csproj",
+        "projectUniqueName": "C:\\dev\\pmv-sint-2023-2-e3-proj-back-t1-erp-para-produtores-rurais\\ORM_Exemplo\\ORM_Exemplo\\ORM_Exemplo.csproj",
         "projectName": "ORM_Exemplo",
-        "projectPath": "C:\\Users\\Cleide Nascimento\\Desktop\\SISTEMAS PARA INTERNET-PUC\\Eixo3\\Eixo3-MF-Desenvolvimento-Back-End\\ORM_Exemplo\\ORM_Exemplo\\ORM_Exemplo.csproj",
-        "packagesPath": "C:\\Users\\Cleide Nascimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cleide Nascimento\\Desktop\\SISTEMAS PARA INTERNET-PUC\\Eixo3\\Eixo3-MF-Desenvolvimento-Back-End\\ORM_Exemplo\\ORM_Exemplo\\obj\\",
+        "projectPath": "C:\\dev\\pmv-sint-2023-2-e3-proj-back-t1-erp-para-produtores-rurais\\ORM_Exemplo\\ORM_Exemplo\\ORM_Exemplo.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\pmv-sint-2023-2-e3-proj-back-t1-erp-para-produtores-rurais\\ORM_Exemplo\\ORM_Exemplo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Cleide Nascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
