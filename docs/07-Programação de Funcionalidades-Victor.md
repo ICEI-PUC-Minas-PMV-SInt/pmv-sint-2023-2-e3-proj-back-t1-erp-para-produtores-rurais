@@ -1,10 +1,10 @@
-# Victor B. - Responsável pela página de Login/Autenticação.
+## Victor B. - Responsável pela página de Login/Autenticação.
 
 Irei colocar algumas imagens que representam a composição  do sistema, imagens que mostram todo o processo de construção do sistema, desde a base ao final ou  seja aquilo que é retornado ao usúario.
 
-Vou deixar aqui o link de  aonde se encontra o projeto, por falta de tempo optei em não colocar nenhuma funcionalidade a mais e nem criar algo relacionado ao oque seja proposto nas telas de autenticação/login ou seja o projeto está  exatamente igual ao ensinado no microfundamento Web-BackEnd
+Vou deixar aqui o link de  aonde se encontra o projeto, por falta de tempo optei em não colocar nenhuma funcionalidade a mais e nem criar algo relacionado ao oque seja proposto nas telas de autenticação/login ou seja o projeto está  exatamente igual ao ensinado no microfundamento Web-BackEnd.
 
-Link: https://github.com/vbf1/app-backend.git
+Link: [neste repositório](https://github.com/vbf1/app-backend.git)
 
 Telas e algumas explicações basicas de seus significados: 
 
@@ -14,6 +14,7 @@ Telas e algumas explicações basicas de seus significados:
 
 <p align="center">
 <img src="/docs/img/Victor/table-veiculos.png
+</p>
 
 - ### (2) - Representação do CRUD da classe Veiculos:
 
@@ -21,6 +22,7 @@ Telas e algumas explicações basicas de seus significados:
 
 <p align="center">
 <img src="/docs/img/Victor/crud.png
+</p>
 
 - ### (3) - Representação da Migration da classe Veiculos:
 
@@ -28,6 +30,7 @@ Telas e algumas explicações basicas de seus significados:
 
 <p align="center">
 <img src="/docs/img/Victor/migration-veiculos.png.png
+</p>
 
 - ### (4) - Representação da Tela que  e retornada ao usuario que acessa o sistema:
 
@@ -35,4 +38,5 @@ Telas e algumas explicações basicas de seus significados:
 
 <p align="center">
 <img src="/docs/img/Victor/view.png
+</p>
 
