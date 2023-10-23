@@ -13,7 +13,7 @@ Telas e algumas explicações basicas de seus significados:
 - ### (1) - Explicação: Na classe é definido as propriedades da classe, modificadores de acesso, o tipo se é String, number, etc, a classe e como se fosse a representação por escrito da estrutura do banco. 
 
 <p align="center">
-<img src="/docs/img/Victor/table-veiculos.png/>
+<img src="/docs/img/Victor/table-veiculos.png />
 </p>
 
 - ### (2) - Representação do CRUD da classe Veiculos:
@@ -21,7 +21,7 @@ Telas e algumas explicações basicas de seus significados:
 - ### (2) - Explicação: O CRUD significa "C" Create : Criar novos Dados, "R" Ready: Ler Dados, "U" Update: Atualizar Dados, "D" Delete: Deletar Dados na imagem tem dois dos metodos o de "Criar" e o  de "Editar" esses metodos sao definidos na camada de Controller, O controller e quem faz a comunicão da VIew com os dados que são solicitados do  BackEnd.
 
 <p align="center">
-<img src="/docs/img/Victor/crud.png/>
+<img src="/docs/img/Victor/crud.png />
 </p>
 
 - ### (3) - Representação da Migration da classe Veiculos:
@@ -29,7 +29,7 @@ Telas e algumas explicações basicas de seus significados:
 - ### (3) - Explicação: Migration é a basicamente aonde fica o SQL ou seja o codigo que banco de dados intendi, o  banco e criado através  deste SQl, somente o que foi definido por meio do SQL que vai ser  gerado no banco.
 
 <p align="center">
-<img src="/docs/img/Victor/migration-veiculos.png.png/>
+<img src="/docs/img/Victor/migration-veiculos.png.png />
 </p>
 
 - ### (4) - Representação da Tela que  e retornada ao usuario que acessa o sistema:
@@ -37,6 +37,6 @@ Telas e algumas explicações basicas de seus significados:
 - ### (4) - Explicação: Essa é uma das telas que é retornada ao um usúario interagir com o sistema.
 
 <p align="center">
-<img src="/docs/img/Victor/view.png/>
+<img src="/docs/img/Victor/view.png />
 </p>
 
