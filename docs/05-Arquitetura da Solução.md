@@ -20,11 +20,11 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Modelo Físico (DDL)
 
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+[banco.sql](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e3-proj-back-t1-erp-para-produtores-rurais/blob/main/src/db/banco.sql)
 
 ## Instruções SQL de Manipulação do BD (DML)
 
-Entregar um arquivo dml.sql contendo os scripts de manipulação de banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+[dml.sql](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e3-proj-back-t1-erp-para-produtores-rurais/blob/main/src/db/dml.sql)
 
 ## Tecnologias Utilizadas
 
