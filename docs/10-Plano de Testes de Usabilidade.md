@@ -1,11 +1,9 @@
 # Plano de Testes de Usabilidade
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
+## O planejamento dos testes de usabilidade a serem realizados com usuários são descritos a seguir:
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
-
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+- Identificação de objetivos do teste de usabilidade: verificar a facilidade que o software ou site possui de ser claramente compreendido e manipulado pelo usuário
+  
+- Detalhes do público envolvido nos testes: Produtores rurais que buscam aprimorar suas atividades no campo atráves de um sistema que permita um acompanhamento e um relatório de todas suas atividades para que não fique perdido em meio a métodos antigos. Aliando o trabalho no campo à tecnologia para obter melhores e mais definidos resultados.
+  
+- Roteiro detalhado das tarefas que foram desempenhadas pelo usuário: Acessar as páginas, navegar entre as diferentes páginas, adicionar insumos, adicionar produtos, realizar acompanhamento de despesas e lucros, acompanhar relatório realizado com base nas informações fornecidas. Criar lista de compras (insumos), criar lista de produtos para eventual venda (produtos), adicionar valores e quantidades ao itens. Verificar responsividade da ferramenta de custos. Avaliar a facilidade de se navegar pelo sistema.
