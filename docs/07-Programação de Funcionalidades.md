@@ -2,10 +2,10 @@
 
 ## Leonardo - Responsável pela página de Insumos.
 
-Abaixo serão apresentadas testes de execuções do projeto de exemplo referente a segunda etapa do projeto.
-Todo o código do exemplo que foi executado pode ser encontrado [neste repositório](https://github.com/LeonardoAlves7/projeto-puc.git).
+Abaixo serão apresentadas a execução da página de insumos referente a terceira etapa do projeto.
+Todo o código da página pode ser encontrado em [src/Página Insumos (Leonardo)](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-2-e3-proj-back-t1-erp-para-produtores-rurais/tree/main/src/P%C3%A1gina%20Insumos%20(Leonardo)/pagina-insumos).
 
-O objetivo deste exemplo foi criar um projeto utilizando o ASP.Net Core MVC com auxilio do entity framework. A utilização das camadas Model, View e Control, a interação entre elas, sendo ao final possivel realizar as operações do método CRUD.
+A página em questão trata-se da realização das tarefas de registro de insumos adquiridos pelo usuário. O insumo poderá ser registrado em uma lista, definindo sua descrição e quantidade, posteriormente sendo possivel também precificar a aquisição deste insumo espifico, o que gera para o usuário um detalhes dos dados, o que torna mais fácil de acompanhar suas atividades no campo. O código é realizado através do ASP.Net Core MVC com auxilio do entity framework. A utilização das camadas Model, View e Control, a interação entre elas, sendo ao final possivel realizar as operações do método CRUD.
 
 - ### (1) Criação da tabela Veículos, Contendo a classe veículo e as suas proprieades, que são de Id, Nome, Placa, Ano de fabricação e Ano do Modelo de veículos. A propriedade Id, definida como chave primária.
 
