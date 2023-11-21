@@ -7,81 +7,43 @@ Todo o código da página pode ser encontrado em [src/Página Insumos (Leonardo)
 
 A página em questão trata-se da realização das tarefas de registro de insumos adquiridos pelo usuário. O insumo poderá ser registrado em uma lista, definindo sua descrição e quantidade, posteriormente sendo possivel também precificar a aquisição deste insumo espifico, o que gera para o usuário um detalhes dos dados, o que torna mais fácil de acompanhar suas atividades no campo. O código é realizado através do ASP.Net Core MVC com auxilio do entity framework. A utilização das camadas Model, View e Control, a interação entre elas, sendo ao final possivel realizar as operações do método CRUD.
 
-- ### (1) Criação da tabela Veículos, Contendo a classe veículo e as suas proprieades, que são de Id, Nome, Placa, Ano de fabricação e Ano do Modelo de veículos. A propriedade Id, definida como chave primária.
+- ###  A base do código é definida principalmente por duas tabelas, a Tabela de Insumos (imagem 1) e a Tabela de Gastos (imagem 2). A primeira tabela trata-se de registrar o insumo específico que foi adquirido pelo usuário, já a segunda tabela é utilizada para realizar a precifição daquele insumo específico que foi registrado pelo usuário.
 
 <p align="center">
-<img src="/docs/img/Leonardo/1.png">
-</p>
-
-- ### (2) - Criação da classe de contexto do banco de dados. Através da classe de configuração AppDbContext ligadado ao DbContext utilizando o entity framework. E definindo o banco de dados.
-
-<p align="center">
-<img src="/docs/img/Leonardo/2.png">
-</p>
-
-- ### (3) - add-migration. geração da tabela veículos no banco de dados.
-
-<p align="center">
-<img src="/docs/img/Leonardo/3.png">
-</p>
-
-- ### (4) - Definindo a variavel context no controller em que recebe os dados do veículo da lista de veículos (Model) que será retornado para a View que fará o retorno dos dados. (Index).
-
-<p align="center">
-<img src="/docs/img/Leonardo/4.png">
+<img src="/docs/img/Leonardo/insumos-1.png">
 </p>
 
 <p align="center">
-<img src="/docs/img/Leonardo/4a.png">
+<img src="/docs/img/Leonardo/insumos-2.png">
 </p>
 
-- ### (5) - Criação dos dados. Duas funções Create, uma que exibirá o formulário da página (get) e outra que receberá os dados preenchidos (post). Se as informações inseridas forem válidas, serão adicionadas na lista de dados e salvos no banco de dados. Ao adicionar os dados e adicionar, eles serão acrescentados ao banco de dados.
+- ###  Após a criação do Model (Tabelas de Insumos e Gastos) é definido o controller de cada tabela para que assim possamos gerar as Views e consequentemente as operação de CRUD. Vejamos na prática o registro e precificação de um insumo com as operações e Views já definidas:
 
 <p align="center">
-<img src="/docs/img/Leonardo/5.png">
-</p>
-
-<p align="center">
-<img src="/docs/img/Leonardo/5b.png">
+<img src="/docs/img/Leonardo/insumos-3.png">
 </p>
 
 <p align="center">
-<img src="/docs/img/Leonardo/5c.png">
+<img src="/docs/img/Leonardo/insumos-4.png">
 </p>
 
 <p align="center">
-<img src="/docs/img/Leonardo/5d.png">
-</p>
-
-- ### (6) - Edição de dados no controller. Através do Id (chave primária) recupera os dados do banco de dados, criando um formulário de edição. Ao alterar as informações, salva as mudanças e as redireciona para a lista inicial (index).
-
-<p align="center">
-<img src="/docs/img/Leonardo/6.png">
+<img src="/docs/img/Leonardo/insumos-5.png">
 </p>
 
 <p align="center">
-<img src="/docs/img/Leonardo/6b.png">
-</p>
-
-- ### (7) - Implementação da funcionalidade de visualizar dados. Através da id, busca os dados e os retorna para a view.
-
-<p align="center">
-<img src="/docs/img/Leonardo/7.png">
+<img src="/docs/img/Leonardo/insumos-6.png">
 </p>
 
 <p align="center">
-<img src="/docs/img/Leonardo/7a.png">
-</p>
-
-- ### (8) - Finalizando o método CRUD, adicionando a funcionalidade Delete. Recupera os dados através da id, apresenta na tela e dá ao usuário a opção de apagá-los (get). Ao confirmar, as informações recolhidas serão apagadas e a alteração será salva (post) e o usuário será redirecinado ao index.
-
-<p align="center">
-<img src="/docs/img/Leonardo/8.png">
+<img src="/docs/img/Leonardo/insumos-7.png">
 </p>
 
 <p align="center">
-<img src="/docs/img/Leonardo/8a.png">
+<img src="/docs/img/Leonardo/insumos-8.png">
 </p>
+
+
 
 # Victor B. - Responsável pela página de Login/Autenticação.
 
