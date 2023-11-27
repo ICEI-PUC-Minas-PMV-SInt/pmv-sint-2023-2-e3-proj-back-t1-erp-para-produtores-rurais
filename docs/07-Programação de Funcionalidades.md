@@ -51,37 +51,99 @@ Irei colocar algumas imagens que representam a composição do sistema, imagens 
 
 Vou deixar aqui o link de aonde se encontra o projeto, por falta de tempo optei em não colocar nenhuma funcionalidade a mais e nem criar algo relacionado ao oque seja proposto nas telas de autenticação/login ou seja o projeto está exatamente igual ao ensinado no microfundamento Web-BackEnd
 
-Link: https://github.com/vbf1/app-backend.git
+Link: https://github.com/vbf1/ERP-backend.git
 
 Telas e algumas explicações basicas de seus significados:
 
-- ### Representação da Tabela da Classe Veiculos:
+- ### Representação da Tabela da Classe Usuários:
 
 - ### Explicação: Na classe é definido as propriedades da classe, modificadores de acesso, o tipo se é String, number, etc, a classe e como se fosse a representação por escrito da estrutura do banco.
 
+- ### Ao final da classe podemos ver Perfil aonde definimos se o usuário será admin do sistema ou um usuário comun.
+- ### O adm terá algumas funcionalidades que o usuário comum não tem.
+
 <p align="center">
-<img src="/docs/img/Victor/table-veiculos.png
+<img src="/docs/img/Victor/classe-usuarios.png.png
 
 - ### Representação do CRUD da classe Veiculos:
 
 - ### Explicação: O CRUD significa "C" Create : Criar novos Dados, "R" Ready: Ler Dados, "U" Update: Atualizar Dados, "D" Delete: Deletar Dados na imagem tem dois dos metodos o de "Criar" e o de "Editar" esses metodos sao definidos na camada de Controller, O controller e quem faz a comunicão da VIew com os dados que são solicitados do BackEnd.
 
-<p align="center">
-<img src="/docs/img/Victor/crud.png
+- ### Criar(Create) um usuário.
 
-- ### Representação da Migration da classe Veiculos:
+<p align="center">
+<img src="/docs/img/Victor/create-user.png
+
+- ### Visualizar(Ready) um usuário.
+
+<p align="center">
+<img src="/docs/img/Victor/ready-user.png
+
+- ### Atualizar(Update) um usuário.
+
+<p align="center">
+<img src="/docs/img/Victor/edit-user.png
+
+- ### Apagar(Delete) um usuário.
+
+<p align="center">
+<img src="/docs/img/Victor/delete-user.png
+
+- ### Alguns métodos também para logar e deslogar no sistema.
+
+- ### Logar:
+
+<p align="center">
+<img src="/docs/img/Victor/metodo-login-user.png
+
+- ### Deslogar:
+
+<p align="center">
+<img src="/docs/img/Victor/metodo-logout-use.png
+
+
+- ### Representação da Migration da classe Usuários:
 
 - ### Explicação: Migration é a basicamente aonde fica o SQL ou seja o codigo que banco de dados intendi, o banco e criado através deste SQl, somente o que foi definido por meio do SQL que vai ser gerado no banco.
+
+
+
+
+- ### A migration é um código gerado automaticamente atraves de comandos via console 
+
+- ### Comando para criar a Migration: 
+
+<p align="center">
+<img src="/docs/img/Victor/comando-create-migration.png
+
+- ### Para que o esse codigo dê certo e gere as migrations, existe um framework chamado ORM que faz o serviço de relacionamentos para você, para isso você precisa mapear cada classe e cada propriedade com as chamadas "Annotations" que são nomes que ORM entende e separa cada coisa por sua função igual ao exemplo na classe usuários:
+
+<p align="center">
+<img src="/docs/img/Victor/classe-usuarios.png
+
+- ### Nessa classe temos a annotation [Table("Usuarios)] com isso o ORM entende que isso será nossa tabela de usuarios e cria essa tabela no banco de dados.
+
+- ### Comando para atualizar o banco de dados: 
+
+<p align="center">
+<img src="/docs/img/Victor/comando-update-database.png
+
+- ### Abaixo está nossa migration de Usuários criada através do comando anterior.
 
 <p align="center">
 <img src="/docs/img/Victor/migration-veiculos.png.png
 
 - ### Representação da Tela que e retornada ao usuario que acessa o sistema:
 
-- ### Explicação: Essa é uma das telas que é retornada ao um usúario interagir com o sistema.
+- ### Deslogado:
 
 <p align="center">
-<img src="/docs/img/Victor/view.png" />
+<img src="/docs/img/Victor/login-user.png" />
+
+- ### Logado:
+
+<p align="center">
+<img src="/docs/img/Victor/home-user.png" />
 
 ## Wender Santos - Responsavel pela página de produtos.
 
