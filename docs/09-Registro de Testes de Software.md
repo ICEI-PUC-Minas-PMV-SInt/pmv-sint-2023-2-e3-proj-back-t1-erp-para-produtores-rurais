@@ -16,7 +16,7 @@ O teste de software foi realizado visando examinar a resposta do software acerca
 </p>
 
 
-###  Após logado, acesso a área de insumos, onde o usuário pode cadastrar insumos especificos a sua lista e posteriormente precificá-los e definir as quantidades para que assim possa ter um completo acompanhamento de suas atividades. Asseguir o funcionamento da pagina de insumos:
+- ###  Após logado, acesso a área de insumos, onde o usuário pode cadastrar insumos especificos a sua lista e posteriormente precificá-los e definir as quantidades para que assim possa ter um completo acompanhamento de suas atividades. Asseguir o funcionamento da pagina de insumos:
 
 <p align="center">
 <img src="/docs/img/Leonardo/insumos-3.png">
