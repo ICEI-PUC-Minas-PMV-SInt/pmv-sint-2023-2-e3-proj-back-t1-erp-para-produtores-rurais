@@ -28,3 +28,8 @@ Uma das ferramentas principais para o desenvolvimento foi o visual studio code c
 é um que foi usado foi o Aplicativo Web do ASP.NET Core(MVC), aonde esse modelo cria praticamente tudo que o sistemaa precisar para rodar com apenas um clique, evita de ter que ficar criando codigo do zero, aumentando assim a produtividade.
 
 Já no video o professor ensinou o usar o mysql para banco de dados, mas não conseguir implementar usando o mysql, aí usei o postgres seguindo alguns tutoriais na internet para auxilio na implementação.
+
+
+## Página de Insumos - Leonardo
+
+A página em questão trata-se da realização das tarefas de registro de insumos adquiridos pelo usuário. O insumo poderá ser registrado em uma lista, definindo sua descrição e quantidade, posteriormente sendo possivel também precificar a aquisição deste insumo espifico, o que gera para o usuário um detalhes dos dados, o que torna mais fácil de acompanhar suas atividades no campo. O código é realizado através do ASP.Net Core MVC com auxilio do entity framework. A utilização das camadas Model, View e Control, a interação entre elas, sendo ao final possivel realizar as operações do método CRUD.
