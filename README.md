@@ -4,14 +4,14 @@
 
 `DISCIPLINA: Projetos - Desenvolvimento Web Back-end`
 
-`Eixo 03`
+`Eixo 04`
 
 Um sistema ERP (Enterprise Resource Planning) é uma solução de gestão empresarial que pode ser muito útil para produtores rurais. Ele permite que os gestores tenham uma visão mais integrada e completa das atividades realizadas em sua propriedade, facilitando a tomada de decisões e melhorando a eficiência operacional.<br/><br/>
 <div align="center">
 <img src="/docs/img/logo.png" alt="erp circle logo" style="height: 300px; width:350px;"/> 
 </div><br/><br/>
 
-Com um sistema ERP, o produtor pode controlar de forma mais efetiva os processos de produção, gerenciando melhor os recursos disponíveis e monitorando a qualidade dos produtos. Além disso, é possível integrar diferentes áreas da propriedade, como financeiro, estoque, compras, vendas e produção, em um único software, o que aumenta a agilidade e a precisão da gestão.
+
 
 ## Integrantes
 
@@ -21,36 +21,22 @@ Com um sistema ERP, o produtor pode controlar de forma mais efetiva os processos
 * Victor Batista Ferreira
 * Wender Gonçalves dos Santos 
 
-## Orientador
+> Identifique o produto que será construído. Para isso, nomeie-o da seguinte forma: imagine o produto em uma caixa, qual nome estaria 
+> escrito nela?
+# SER - Sistema ERP Rural
 
-* Will Ricardo dos Santos Machado
+# Visão do Produto
+> Ter uma visão clara do produto é essencial para entender como as primeiras peças do quebra-cabeça do seu negócio se encaixarão. Essa
+> visão deve capturar a essência do valor que seu negócio oferece e transmitir uma mensagem clara e cativante para seus clientes. 
+> Utilize o seguinte modelo para criar a visão do seu produto:
 
-## Instruções de utilização
+> Para [o nome do cliente final], cujo [o problema que precisa ser resolvido]. O [o nome do produto] é [a categoria do produto] que [o benefício-chave, razão para adquiri-lo]. Diferentemente de [alternativa da concorrência], o nosso produto [a diferença-chave].
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Com um sistema ERP, o produtor pode controlar de forma mais efetiva os processos de produção, gerenciando melhor os recursos disponíveis e monitorando a qualidade dos produtos. Além disso, é possível integrar diferentes áreas da propriedade, como financeiro, estoque, compras, vendas e produção, em um único software, o que aumenta a agilidade e a precisão da gestão.
 
-# Documentação
+## Etapa 1: Requisitos do produto
 
-<ol>
-<li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
-<li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
-<li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
-<li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="docs/06-Template Padrão da Aplicação.md"> Template Padrão da Aplicação</a></li>
-<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
-<li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
-<li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
-<li><a href="docs/13-Referências.md"> Referências</a></li>
-</ol>
-
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
-
-# Apresentação
-
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+* [Problemas e dores atuais](docs/problemas.md)
+* [Expectativas com o produto](docs/expectativas.md)
+* [Personas do produto](docs/personas.md)
+* [Entendendo as funcionalidades](docs/funcionalidades.md)
